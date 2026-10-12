@@ -1,0 +1,10 @@
+{
+  "api_base": "https://blueconn-test.youneszabihpour-cf.workers.dev",
+  "api_base_fallbacks": [
+    "https://blueconnection-vpn.onrender.com"
+  ],
+  "latest_version": "1.1.2",
+  "latest_version_code": 6,
+  "update_url": "",
+  "announcement": ""
+}
